@@ -1,0 +1,8 @@
+PostgreSQL
+
+user: postgres
+pass: *Passcode!15
+
+user: daniel
+pass: 1233dan
+db: CoinNodeLogin (use \c to connect) "\c coinnodelogin"
